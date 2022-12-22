@@ -344,11 +344,3 @@ img {
   border-radius: 50%;
 }
 	
-.menu-item {
-    margin-left: 0.625rem;
-    margin-right: 0.525rem;
-    display: flex;
-    height: 144px; 
-    width: 560px; #Justin update this
-    cursor: pointer;
-}
